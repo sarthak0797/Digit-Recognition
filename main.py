@@ -88,7 +88,5 @@ for i in range(len(te_inputs)):
 
 print ("Accuracy Of the Network is " , ((correct/10000)*100))
 
-#net.output(l2)
-
 
 
