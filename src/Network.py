@@ -30,11 +30,4 @@ def train(inputs,output,weights,weights1):
 
     return weights,weights1
 
-def checker(x,weights,weights1):
-
-    l = x.T
-    l1 = sigmoid(np.dot(l,weights))
-    l2 = sigmoid(np.dot(l1,weights1))
-    return l2;
-
 
