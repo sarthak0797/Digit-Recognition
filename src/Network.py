@@ -28,7 +28,7 @@ def train(inputs,output,weights,weights1):
         l2_del = error * deriv_sigmoid(l2)
 
         
-        """Calculating the error of out hidden layer"""
+        """Calculating the error of our hidden layer"""
         error0 = l2_del.dot(weights1.T)
 
         """This gives how much did our hidden layer contributed in our missed output"""
