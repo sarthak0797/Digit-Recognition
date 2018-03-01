@@ -16,8 +16,8 @@ tr_outputs = [ml.vectorized_result(x) for x in tr_data[1]]
 for i in range(10000):
 
     weights , weights1 = net.train(tr_inputs[i],tr_outputs[i],weights,weights1)
-    if(i % 500) == 0 :
-        print (i/500, "%")
+    if(i % 100) == 0 :
+        print (i/100, "%")
 
 print ("Network Trained and ready to be operated")
 
