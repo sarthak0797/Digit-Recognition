@@ -1,6 +1,6 @@
 import numpy as np
 import mnist_loader as ml
-import network as net
+import Network as net
 import test as tt
 
 np.random.seed(1)
