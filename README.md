@@ -16,7 +16,7 @@
   
   
 # Accurcay
-  The newtwork achieved an accuracy of 94.5%
+  The network achieved an accuracy of 94.5%
   
   
  
