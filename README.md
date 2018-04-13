@@ -16,7 +16,7 @@
   
   
 # Accurcay
-  The ANN achieved an accuracy of 94.5%.
+  The ANN achieved an accuracy of 92.5%.
   The CNN achieved an accuracy of 98.7%
   
   
