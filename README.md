@@ -1,5 +1,5 @@
 # Digit-Recognition
-  This projects trains an ANN with one hidden layer of 30 neurons using backpropogation algorithm to recognise handwritten digits.
+  This projects trains an ANN with one hidden layer of 30 neurons and a CNN using backpropogation algorithm to recognise handwritten digits.
 
 # Data-Set-Used
   I have used the MNIST data set to train the network for 10,000 images.
@@ -16,7 +16,9 @@
   
   
 # Accurcay
-  The network achieved an accuracy of 94.5%
+  The ANN achieved an accuracy of 94.5%.
+  The CNN achieved an accuracy of 98.7%
+  
   
   
  
