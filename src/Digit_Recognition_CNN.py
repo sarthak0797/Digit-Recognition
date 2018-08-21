@@ -62,7 +62,7 @@ def convulation_net(x):
 
 def train_net(x):
 
-	#sess = tf.InteractiveSession
+	sess = tf.InteractiveSession
 	prediction = convulation_net(x)
 	print(prediction)
 	cost = tf.nn.softmax_cross_entropy_with_logits(logits = prediction, labels=y)
