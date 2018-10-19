@@ -15,10 +15,13 @@
   The backpropagation algorithm was originally introduced in the 1970s, but its importance wasn't fully appreciated until a famous 1986 paper by David Rumelhart, Geoffrey Hinton, and Ronald Williams. That paper describes several neural networks where backpropagation works far faster than earlier approaches to learning, making it possible to use neural nets to solve problems which had previously been insoluble. Today, the backpropagation algorithm is the workhorse of learning in neural networks.
   
   
-# Accurcay
+# Analysis
   The ANN achieved an accuracy of 92.5%.
   The CNN achieved an accuracy of 98.7%
   
+# How to run
+  Run Digit_Recognition_ANN.py for Artifical Neural Network
+  Run Digit_Recognition_CNN.py for Convountional Neural Network
   
   
  
