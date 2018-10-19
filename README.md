@@ -17,10 +17,12 @@
   
 # Analysis
   The ANN achieved an accuracy of 92.5%.
+  
   The CNN achieved an accuracy of 98.7%
   
 # How to run
-  Run Digit_Recognition_ANN.py for Artifical Neural Network
+  Run Digit_Recognition_ANN.py for Artifical Neural Network.
+  
   Run Digit_Recognition_CNN.py for Convountional Neural Network
   
   
