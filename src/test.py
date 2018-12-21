@@ -1,4 +1,4 @@
-import network as net
+import Network as net
 import numpy as np
 
 
