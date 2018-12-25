@@ -33,7 +33,6 @@ for i in range(50000):
         br.progress(i, 50000)
 br.progress(50000, 50000, cond = True)
 
-
 print ("\n")
 
 print ("Network Trained and ready to be operated")
